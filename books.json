@@ -1,0 +1,141 @@
+[{
+  "_id": {
+    "$oid": "62f4bdd74d4e425288cb876f"
+  },
+  "name": "Theta 02",
+  "author": "Kevin Mitnic",
+  "page": "255",
+  "price": "45.99",
+  "created_date": {
+    "$date": {
+      "$numberLong": "1660206551603"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f4d250237a3e56042e62a2"
+  },
+  "name": "Rich Dad Poor Dad",
+  "author": "Robert Kiyosaki",
+  "page": "788",
+  "price": "109.99",
+  "created_date": {
+    "$date": {
+      "$numberLong": "1660211792058"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f6081aca902927d407bda2"
+  },
+  "name": "Some Book",
+  "author": "Roshan Zaid",
+  "page": "588",
+  "price": "178.99",
+  "created_date": {
+    "$date": {
+      "$numberLong": "1660291098722"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f671b8ca902927d407be10"
+  },
+  "name": "Java Services",
+  "author": "Rilley Publications",
+  "page": "855",
+  "price": "25.25",
+  "created_date": {
+    "$date": {
+      "$numberLong": "1660318136224"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f67270ca902927d407be1a"
+  },
+  "name": "Dissatisfied Customers and Services",
+  "author": "Michael G.",
+  "page": "855",
+  "price": "2400",
+  "created_date": {
+    "$date": {
+      "$numberLong": "1660318320276"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f67307ca902927d407be20"
+  },
+  "name": "Development",
+  "author": "Pepe Travel",
+  "page": "410",
+  "price": "1499",
+  "created_date": {
+    "$date": {
+      "$numberLong": "1660318471947"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f67409ca902927d407be26"
+  },
+  "name": "Secrets",
+  "author": "Unnamed",
+  "page": "800",
+  "price": "25.5",
+  "created_date": {
+    "$date": {
+      "$numberLong": "1660318729768"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f6752eca902927d407be2c"
+  },
+  "name": "Development",
+  "author": "Sumiya Rashid",
+  "page": "410",
+  "price": "4500",
+  "created_date": {
+    "$date": {
+      "$numberLong": "1660319022664"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f67582ca902927d407be32"
+  },
+  "name": "Book Source",
+  "author": "Victoria Br.",
+  "page": "321",
+  "price": "251.25",
+  "created_date": {
+    "$date": {
+      "$numberLong": "1660319106823"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f675f3ca902927d407be3a"
+  },
+  "name": "Customers and Services",
+  "author": "Sumiya Rashid",
+  "page": "800",
+  "price": "599",
+  "created_date": {
+    "$date": {
+      "$numberLong": "1660319219330"
+    }
+  },
+  "__v": 0
+}]
