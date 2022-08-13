@@ -1,3 +1,48 @@
-CRUD Book Operations
+=======================================================================================================================================================================
+READ ME
+=======================================================================================================================================================================
+PROJ GAMMA - CRUD Book Operations
+Author: Roshan Zaid
+Version: 1.0.2
+=======================================================================================================================================================================
 
-The project consists 2 files. one is node project which acts a bridge between DB and the frontend. 
+1. The project consists 2 projects:
+	- React project (named : frontend) - which is responsible for all front end activities
+	- Node Project (named : backend) - one is node project which acts a bridge between DB and the frontend. This consists the APIs which is used for the CRUD operations.
+
+2. The database file can be imported to Mongo DB, named: books.json
+
+=======================================================================================================================================================================
+How it Happens?
+=======================================================================================================================================================================
+
+The node project is created with APIs and tested with postman the requests. for Each operation: 
+            - VIEW: https://localhost:3000/books              (WITH A GET REQUEST)
+            - VIEW SINGLE: https://localhost:3000/books/id=:  (WITH A GET REQUEST PASSING THE UNIQUE BOOK ID)
+            - CREATE: https://localhost:3000/books            (WITH A POST REQUEST PASSING THE PARAMETERS)
+            - UPDATE: https://localhost:3000/books/id=:       (WITH A PUT REQUEST PASSING THE UNIQUE BOOK ID)
+            - DELETE: https://localhost:3000/books/id=:       (WITH A DELETE REQUEST PASSING THE UNIQUE BOOK ID)
+            
+The react project will be communicating with AXIOS in order to connect with these APIS and get the job done.
+
+Several Node Modules has been used for styling and making use of code reusabilities.
+  -Babel
+  -MATERIAL CSS
+  -AXIOS
+  -MONGOOSE
+  -NODEMON
+  
+=======================================================================================================================================================================
+How to run the project? 
+=======================================================================================================================================================================
+
+1. Import 2 projects
+2. Build Project with npm start command in your terminal. required node modules are included with the projects. wouldnt require to install again.
+3. Install MongoDB Compass or Mongo Cloud and Import the JSON file included for acting as a DB. change port as per.
+4. Run nodemon index.js / node index.js in your terminal (with project path)
+5. project can be accessed in localhost:3000
+6. VOILA!
+
+=======================================================================================================================================================================
+Tasks Covered
+=======================================================================================================================================================================
