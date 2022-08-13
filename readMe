@@ -46,3 +46,10 @@ How to run the project?
 =======================================================================================================================================================================
 Tasks Covered
 =======================================================================================================================================================================
+	- Authentication is restricted
+	- Mongo DB is used as required
+	- Folder structure has been neatly maintained
+	- Info consists images
+	- UI created for CRUD operations
+	- API has been written for each operations
+	- App is Responsive
